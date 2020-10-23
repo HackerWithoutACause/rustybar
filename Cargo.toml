@@ -1,0 +1,9 @@
+[package]
+name = "rustybar"
+version = "0.1.0"
+authors = ["Chase Hadley <chase.hadley@tutanota.com>"]
+edition = "2018"
+
+[dependencies]
+cgmath = "0.17.0"
+glium = "0.28.0"
